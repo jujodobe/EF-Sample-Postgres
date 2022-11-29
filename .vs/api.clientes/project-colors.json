@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1933421-8999-4929-92d2-1a4be2dc6861": {
+      "ProjectGuid": "c1933421-8999-4929-92d2-1a4be2dc6861",
+      "DisplayName": "api.clientes",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

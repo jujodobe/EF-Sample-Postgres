@@ -33,3 +33,17 @@ C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\ap
 C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\ref\api.clientes.dll
 C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.pdb
 C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.genruntimeconfig.cache
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Calculos.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Calculos.pdb
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.xml
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.xml
